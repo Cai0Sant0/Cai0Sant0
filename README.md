@@ -1,6 +1,6 @@
 ## Prazer! Me chamo Caio 👋
  <div>
-  <a href="(https://github.com/Cai0Sant0)">
+  <a href="https://github.com/Cai0Sant0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cai0Sant0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cai0Sant0&layout=compact&langs_count=16&theme=dracula"/>
 </div>
