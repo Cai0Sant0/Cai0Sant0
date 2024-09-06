@@ -19,10 +19,10 @@
 
 <div style= "inline-block"> 
   <a href="https://github.com/Cai0Sant0/Javascript_2.0">
-  <img align="center" height = "120" src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=Javascript_2.0&theme=midnight-purple" />
+  <img align="center" height = "120" width = "395" src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=Javascript_2.0&theme=midnight-purple" />
 </a>
 <a href="https://github.com/Cai0Sant0/projetoCidade">
-  <img align="center" height = "120" src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=projetoCidade&theme=midnight-purple" />
+  <img align="center" height = "120"  src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=projetoCidade&theme=midnight-purple" />
 </a>
 </div> <br>
 
