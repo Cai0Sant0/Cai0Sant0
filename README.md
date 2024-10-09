@@ -1,4 +1,8 @@
-## Prazer! Me chamo Caio 👋
+
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&letterSpacing=1.2px&duration=3000&pause=1000&color=1611FFAC&width=435&lines=Prazer!+Me+chamo+Caio+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
+
  <div>
   <a href="https://github.com/Cai0Sant0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cai0Sant0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
