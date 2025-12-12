@@ -3,11 +3,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&letterSpacing=1.2px&duration=3000&pause=1000&color=7F3BCEAC&width=435&lines=Prazer!+Me+chamo+Caio+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
- <div>
+ <!--<div>
   <a href="https://github.com/Cai0Sant0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cai0Sant0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cai0Sant0&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>
+</div>-->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="260px" align="right">
+
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
+
+<p align="left">
+  💼 Linguagens e Ferramentas :
+</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,20 +31,25 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jvieira562/imagens/a07b42e2fe5a4b8350fcaa19ce09d6b1e0047197/icons/github/github-original.svg">
+ 
+ <!--<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jvieira562/imagens/a07b42e2fe5a4b8350fcaa19ce09d6b1e0047197/icons/github/github-original.svg">
  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jvieira562/imagens/a07b42e2fe5a4b8350fcaa19ce09d6b1e0047197/icons/git/git-original.svg">
-</div>
+</div>-->
 
-##
-
-<div style= "inline-block"> 
+<!--<div style= "inline-block"> 
   <a href="https://github.com/Cai0Sant0/Javascript_2.0">
   <img align="center" height = "120" width = "395" src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=Javascript_2.0&theme=midnight-purple" />
 </a>
 <a href="https://github.com/Cai0Sant0/MapaDeCarreira">
   <img align="center" height = "120"  src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=MapaDeCarreira&theme=midnight-purple" />
 </a>
-</div> <br>
+</div> <br>-->
+
+##
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 <div> 
   <a href="https://instagram.com/Cai0.Sant0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
