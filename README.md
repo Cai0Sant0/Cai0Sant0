@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right">
 
 <p align="left"> 
-Sou um dev apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com web, dados e sistemas ERP, e atualmente me aprofundo em dados e cloud computing.
+Sou desenvolvedor apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com aplicações web, análise de dados e sistemas ERP, e atualmente me aprofundo em dados e cloud computing para criar pipelines robustos e deploys escaláveis. Gosto de código limpo, programação web e compartilhar conhecimento.
 </p>
 
 <p align="left">
