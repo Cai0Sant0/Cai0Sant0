@@ -12,12 +12,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="250px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Sou um dev apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com web, dados e sistemas ERP, e atualmente me aprofundo em dados e cloud computing.
 </p>
 
 <p align="left">
-  💼 Linguagens e Ferramentas :
+  💼 <strong>Linguagens</strong> e <strong>Ferramentas</strong> :⤵️
 </p>
 
 <div style="display: inline_block"><br>
@@ -48,7 +47,7 @@
 ##
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso tenha se interessado <Strong>entre em contato</Strong> comigo:⤵️
 </p>
 
 <div> 
