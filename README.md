@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cai0Sant0&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>-->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="380px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="350px" align="right">
 
  
 ### Sou um dev apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com aplicações web, análise de dados e sistemas ERP, e atualmente me aprofundo em dados e cloud computing para criar pipelines robustos e deploys escaláveis. Gosto de código limpo, programação web e compartilhar conhecimento.
