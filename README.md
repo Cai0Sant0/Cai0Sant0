@@ -3,48 +3,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&letterSpacing=1.2px&duration=3000&pause=1000&color=7F3BCEAC&width=435&lines=Prazer!+Me+chamo+Caio+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
- <!--<div>
-  <a href="https://github.com/Cai0Sant0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cai0Sant0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cai0Sant0&layout=compact&langs_count=16&theme=midnight-purple"/>
-</div>-->
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="330px" align="right">
 
  
 ### Sou um dev apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com aplicações web, análise de dados e sistemas ERP.
 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cai0Sant0&theme=monokai)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cai0Sant0&theme=monokai) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cai0Sant0&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 
 <p align="left">
   💼 <strong>Linguagens</strong> e <strong>Ferramentas</strong> :⤵️
 </p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
- <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png">
- 
- <!--<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jvieira562/imagens/a07b42e2fe5a4b8350fcaa19ce09d6b1e0047197/icons/github/github-original.svg">
- <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jvieira562/imagens/a07b42e2fe5a4b8350fcaa19ce09d6b1e0047197/icons/git/git-original.svg">
-</div>-->
-
-<!--<div style= "inline-block"> 
-  <a href="https://github.com/Cai0Sant0/Javascript_2.0">
-  <img align="center" height = "120" width = "395" src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=Javascript_2.0&theme=midnight-purple" />
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,aws,javascript,java,mysql,css,html,react,figma,ps,github,vercel,vite,bootstrap,pycharm,python,tailwind,typescript,eclipse" />
 </a>
-<a href="https://github.com/Cai0Sant0/MapaDeCarreira">
-  <img align="center" height = "120"  src="https://github-readme-stats.vercel.app/api/pin/?username=Cai0Sant0&repo=MapaDeCarreira&theme=midnight-purple" />
-</a>
-</div> <br>-->
 
 ##
 
