@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="330px" height="170px" align="right">
 
  
-### Desenvolvedor de Software | Web, Dados & Sistemas ERP.
+ <h3>Desenvolvedor de Software | Web, Dados & Sistemas ERP.</h3>
 
 <p>Sou desenvolvedor focado em transformar ideias em soluções digitais práticas e bem estruturadas. Atuo no desenvolvimento de aplicações web, análise de dados e sistemas ERP, sempre buscando unir eficiência, clareza e uma experiência consistente para o usuário.</p>
 
