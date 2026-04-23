@@ -4,7 +4,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="330px" height="170px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="330px" height="190px" align="right">
 
  
 ### Desenvolvedor de Software | Web, Dados & Sistemas ERP.
@@ -23,7 +23,7 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,aws,javascript,java,mysql,css,html,react,figma,ps,github,vercel,vite,bootstrap,pycharm,python,tailwind,typescript,eclipse" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,java,mysql,css,html,react,figma,ps,github,vercel,vite,bootstrap,pycharm,python,tailwind,typescript,eclipse" />
 </a>
 
 ##
