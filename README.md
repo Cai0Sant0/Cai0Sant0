@@ -7,7 +7,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="330px" align="right">
 
  
-### Sou um dev apaixonado por transformar ideias em soluções práticas e elegantes; trabalho com aplicações web, análise de dados e sistemas ERP.
+### Desenvolvedor de Software | Web, Dados & Sistemas ERP.
+
+<p> Sou desenvolvedor focado em transformar ideias em soluções digitais práticas e bem estruturadas. Atuo no desenvolvimento de aplicações web, análise de dados e sistemas ERP, sempre buscando unir eficiência, clareza e uma experiência consistente para o usuário.</p>
 
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cai0Sant0&theme=monokai)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cai0Sant0&theme=monokai) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cai0Sant0&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
